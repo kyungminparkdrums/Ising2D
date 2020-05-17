@@ -3,7 +3,7 @@
 
 Statistical Physics II / 2020 Spring / Midterm Project
 
-Department of Physics / University of Seoul
+Kyungmin Park / Department of Physics / University of Seoul
 
 1. 'Ising_Time.py'
 - Save as a .dat file the energy density and |magnetization| density from random spin initial condition(T=inf) and ferromagnetic spin initial condition(T=0) for MC time [0,1000] with dt = 1 (lsize = 128, Nspin = lsize*lsize)
