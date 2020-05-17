@@ -12,7 +12,7 @@ Kyungmin Park / Department of Physics / University of Seoul
 **2. 'Ising_Temperature.py'**
 - Save as a .dat file the [ energy density, |magnetization| density, specific heat, susceptibility, binder parameter ] from ferromagnetic spin initial condition(T=0) for MC time [0,1000] with five independent runs for each beta, after thermal equilibrium. (lsize = 128, beta from 0.2 to 5.2 with d(beta) = 0.0125)
 
-**3. 'Critical_Temperature.py'**
+**3. 'phase_transition.py'**
 - Find the critical temperature where the phase transition takes place: find where specfic heat and susceptibility "diverge".
 - From the .dat file, plot Energy density - Time, |Magnetization| density - Time, Specific Heat - Time, Susceptibility - Time
 - Find the critical exponent alpha, beta, and gamma.
