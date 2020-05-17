@@ -22,4 +22,4 @@ Kyungmin Park / Department of Physics / University of Seoul
 
 * Expected running time for the scripts: 'Ising_Time.py' - 30s, 'Ising_Temperature.py' - 1h 30m, 'Critical_Temperature.py' - 30s
 
-* You can download the .dat files by running 'wget '
+* You can download the .dat files by running 'curl -OL https://raw.githubusercontent.com/kyungminparkdrums/Ising2D/master/DATA/'
