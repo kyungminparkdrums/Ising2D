@@ -22,5 +22,3 @@ Department of Physics / University of Seoul
 * Expected running time for the scripts: 'Ising_Time.py' - 30s, 'Ising_Temperature.py' - 1h 30m, 'Critical_Temperature.py' - 30s
 
 * You can download the .dat files by running 'wget '
-
-* If you are running from Google Colab, simply run 'wget ' 
