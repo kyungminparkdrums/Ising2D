@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 
 # import data
-data = np.loadtxt('T_TEMP/L128_ens_av.dat')
+data = np.loadtxt('DATA/L128_ens_av.dat')
 
 # find the critical temperature Tc
 criticalT_indices = [ np.argmax(data[:,3]), np.argmax(data[:,4]) ]
