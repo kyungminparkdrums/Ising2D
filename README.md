@@ -2,6 +2,7 @@
 ## Monte Carlo simulation for the Ising model in 2D with the Metropolis algorithm
 
 Statistical Physics II / 2020 Spring / Midterm Project
+
 Department of Physics / University of Seoul
 
 1. 'Ising_Time.py'
