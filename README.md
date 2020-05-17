@@ -21,5 +21,3 @@ Kyungmin Park / Department of Physics / University of Seoul
 * If you are running these scripts on terminal, './DATA' directory will be created if it doesn't exist.
 
 * Expected running time for the scripts: 'Ising_Time.py' - 30s, 'Ising_Temperature.py' - 1h 30m, 'Critical_Temperature.py' - 30s
-
-* You can download the .dat files by running 'curl -OL https://raw.githubusercontent.com/kyungminparkdrums/Ising2D/master/DATA/'
