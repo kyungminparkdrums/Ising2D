@@ -1,5 +1,5 @@
 # Ising2D
-Monte Carlo simulation for the Ising model in 2D with the Metropolis algorithm
+## Monte Carlo simulation for the Ising model in 2D with the Metropolis algorithm
 
 Statistical Physics II / 2020 Spring / Midterm Project
 Department of Physics / University of Seoul
@@ -18,7 +18,7 @@ Department of Physics / University of Seoul
 
 * If you are running these scripts on terminal, './DATA' directory will be created if it doesn't exist.
 
-* Expected running time for the scripts
+** Expected running time for the scripts
 - 'Ising_Time.py': 30s
 - 'Ising_Temperature.py': 1h 30m
 - 'Critical_Temperature.py': 30s
